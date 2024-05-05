@@ -1,0 +1,9 @@
+joblib 
+scikit-learn
+pandas
+wordcloud
+seaborn
+ipykernel
+streamlit
+nltk
+Sastrawi
